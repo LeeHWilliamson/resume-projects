@@ -1,0 +1,11 @@
+To run this file on your machine you will need to mimic a CS50 codespace. This can be done easily by following these directions. A file that simulates a formatted sd card is included in this folder for demonstration purposes, but you can subtitute it with your own.
+
+1) Download CS50’s latest .devcontainer.json file from https://cs50.dev/.devcontainer.json, saving it in foo. Because the file’s name starts with a dot (i.e., period), it might seem to “disappear” when you download it. But, in a terminal window on Linux or macOS, you should see it with ls -a, and at a command prompt in Windows, you should see it with dir /a.
+
+2) Download, install, and start Docker on your computer.
+
+3) Download and install VS Code itself on your computer.
+
+4) Install VS Code’s Dev Containers extension.
+
+5) Open VS Code’s command palette, as via Ctrl+Shift+P on Linux, ⇧⌘P on macOS, and Ctrl+Shift+P on Windows, select >Dev Containers - Open Folder in Container…, and open foo.
